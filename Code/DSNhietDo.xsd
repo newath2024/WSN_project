@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSNhietDo" targetNamespace="http://tempuri.org/DSNhietDo.xsd" xmlns:mstns="http://tempuri.org/DSNhietDo.xsd" xmlns="http://tempuri.org/DSNhietDo.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSNhietDo" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DSNhietDo" msprop:Generator_UserDSName="DSNhietDo">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="CamBien" msprop:Generator_TableClassName="CamBienDataTable" msprop:Generator_TableVarName="tableCamBien" msprop:Generator_TablePropName="CamBien" msprop:Generator_RowDeletingName="CamBienRowDeleting" msprop:Generator_RowChangingName="CamBienRowChanging" msprop:Generator_RowEvHandlerName="CamBienRowChangeEventHandler" msprop:Generator_RowDeletedName="CamBienRowDeleted" msprop:Generator_UserTableName="CamBien" msprop:Generator_RowChangedName="CamBienRowChanged" msprop:Generator_RowEvArgName="CamBienRowChangeEvent" msprop:Generator_RowClassName="CamBienRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ThoiGian" msprop:Generator_ColumnVarNameInTable="columnThoiGian" msprop:Generator_ColumnPropNameInRow="ThoiGian" msprop:Generator_ColumnPropNameInTable="ThoiGianColumn" msprop:Generator_UserColumnName="ThoiGian" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="NhietDoCB1" msprop:Generator_ColumnVarNameInTable="columnNhietDoCB1" msprop:Generator_ColumnPropNameInRow="NhietDoCB1" msprop:Generator_ColumnPropNameInTable="NhietDoCB1Column" msprop:Generator_UserColumnName="NhietDoCB1" type="xs:int" minOccurs="0" />
+              <xs:element name="NhietDoCB2" msprop:Generator_ColumnVarNameInTable="columnNhietDoCB2" msprop:Generator_ColumnPropNameInRow="NhietDoCB2" msprop:Generator_ColumnPropNameInTable="NhietDoCB2Column" msprop:Generator_UserColumnName="NhietDoCB2" type="xs:int" minOccurs="0" />
+              <xs:element name="NhietDoCB3" msprop:Generator_ColumnVarNameInTable="columnNhietDoCB3" msprop:Generator_ColumnPropNameInRow="NhietDoCB3" msprop:Generator_ColumnPropNameInTable="NhietDoCB3Column" msprop:Generator_UserColumnName="NhietDoCB3" type="xs:int" minOccurs="0" />
+              <xs:element name="NhietDoCB4" msprop:Generator_ColumnVarNameInTable="columnNhietDoCB4" msprop:Generator_ColumnPropNameInRow="NhietDoCB4" msprop:Generator_ColumnPropNameInTable="NhietDoCB4Column" msprop:Generator_UserColumnName="NhietDoCB4" type="xs:int" minOccurs="0" />
+              <xs:element name="NhietDoCB5" msprop:Generator_ColumnVarNameInTable="columnNhietDoCB5" msprop:Generator_ColumnPropNameInRow="NhietDoCB5" msprop:Generator_ColumnPropNameInTable="NhietDoCB5Column" msprop:Generator_UserColumnName="NhietDoCB5" type="xs:int" minOccurs="0" />
+              <xs:element name="NhietDoCB6" msprop:Generator_ColumnVarNameInTable="columnNhietDoCB6" msprop:Generator_ColumnPropNameInRow="NhietDoCB6" msprop:Generator_ColumnPropNameInTable="NhietDoCB6Column" msprop:Generator_UserColumnName="NhietDoCB6" type="xs:int" minOccurs="0" />
+              <xs:element name="NhietDoCB7" msprop:Generator_ColumnVarNameInTable="columnNhietDoCB7" msprop:Generator_ColumnPropNameInRow="NhietDoCB7" msprop:Generator_ColumnPropNameInTable="NhietDoCB7Column" msprop:Generator_UserColumnName="NhietDoCB7" type="xs:int" minOccurs="0" />
+              <xs:element name="NhietDoCB8" msprop:Generator_ColumnVarNameInTable="columnNhietDoCB8" msprop:Generator_ColumnPropNameInRow="NhietDoCB8" msprop:Generator_ColumnPropNameInTable="NhietDoCB8Column" msprop:Generator_UserColumnName="NhietDoCB8" type="xs:int" minOccurs="0" />
+              <xs:element name="NhietDoCB9" msprop:Generator_ColumnVarNameInTable="columnNhietDoCB9" msprop:Generator_ColumnPropNameInRow="NhietDoCB9" msprop:Generator_ColumnPropNameInTable="NhietDoCB9Column" msprop:Generator_UserColumnName="NhietDoCB9" type="xs:int" minOccurs="0" />
+              <xs:element name="NhietDoCB10" msprop:Generator_ColumnVarNameInTable="columnNhietDoCB10" msprop:Generator_ColumnPropNameInRow="NhietDoCB10" msprop:Generator_ColumnPropNameInTable="NhietDoCB10Column" msprop:Generator_UserColumnName="NhietDoCB10" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
